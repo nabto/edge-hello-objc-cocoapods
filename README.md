@@ -1,5 +1,10 @@
 # Nabto Edge Hello World For iOS
 
+> [!WARNING]
+> **This repository is deprecated and archived.** It is no longer maintained.
+>
+> CocoaPods is being deprecated ([the CocoaPods trunk is becoming read-only](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)), so this CocoaPods-based example will not be updated.
+
 Invokes a [Nabto Edge CoAP](https://docs.nabto.com/developer/guides/get-started/coap/intro.html) service that says `Hello, world!`.
 
 ## Installation
